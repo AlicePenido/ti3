@@ -1,18 +1,17 @@
-# Nome do projeto
+# Visualização Interativa para Modelos de Inteligência Artificial Explicáveis
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Tem como propósito desenvolver visualizações interativas que melhorem a interpretabilidade de modelos de IA explicáveis,
+permitindo uma exploração intuitiva de seus mecanismos e facilitando a compreensão dos processos decisórios, tornando-os
+mais acessíveis e transparentes.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Alice Pereira de Aguilar Penido
+* André Luiz Baptista Esteves Bassini
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* Leonardo Vilela Cardoso
 
 ## Instruções de Replicação/Reprodução
 
