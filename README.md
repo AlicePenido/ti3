@@ -12,7 +12,3 @@ mais acessíveis e transparentes.
 ## Professores responsáveis
 
 * Leonardo Vilela Cardoso
-
-## Instruções de Replicação/Reprodução
-
-Apresentar instruções de como o trabalho pode ser replicado/reproduzido quando for o caso.
